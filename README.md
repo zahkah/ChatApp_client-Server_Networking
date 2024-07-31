@@ -2,29 +2,6 @@
 
 ## Section 1 - Project Description
 
-### Benefits
-
-#### Knowledge Transfer:
-- **Mitigate the "Bus Factor":** Ensures work continuity if a key member is unavailable.
-- **Onboarding New Members:** Provides essential background for new team members.
-
-#### Learning and Development
-- **Educational Resource:** Serves as a learning tool for all team members.
-- **Mentorship Opportunity:** Allows senior engineers to mentor less experienced team members.
-
-#### Clarity and Direction
-- **Clear Plan:** Reduces ambiguity with a well-defined project plan.
-- **Defined Scope:** Manages expectations.
-- **Collaborative Input:** Encourages team input, addressing ideas and concerns early.
-
-#### Documentation
-- **Reference Material**
-- **Historical Record:** Keeps a record of decisions, scope changes, and design rationale.
-
-#### Feedback Loop
-- **Early Feedback:** Enables early feedback from stakeholders and team members.
-- **Risk Mitigation:** Identifies potential risks and strategies early in the process.
-
 ### Project Details
 
 - **1.1 Project Name:** Chat Application
@@ -138,3 +115,26 @@ The system is based on a client-server architecture where the server handles mul
 - **Color Scheme:** A consistent and soothing color palette that reduces eye strain during extended use.
 - **Fonts:** Legible fonts with adjustable sizes to cater to users with different visual preferences.
 - **Responsive Design:** The UI adjusts gracefully to different screen sizes and resolutions, ensuring a uniform experience across devices.
+
+### Benefits
+
+#### Knowledge Transfer:
+- **Mitigate the "Bus Factor":** Ensures work continuity if a key member is unavailable.
+- **Onboarding New Members:** Provides essential background for new team members.
+
+#### Learning and Development
+- **Educational Resource:** Serves as a learning tool for all team members.
+- **Mentorship Opportunity:** Allows senior engineers to mentor less experienced team members.
+
+#### Clarity and Direction
+- **Clear Plan:** Reduces ambiguity with a well-defined project plan.
+- **Defined Scope:** Manages expectations.
+- **Collaborative Input:** Encourages team input, addressing ideas and concerns early.
+
+#### Documentation
+- **Reference Material**
+- **Historical Record:** Keeps a record of decisions, scope changes, and design rationale.
+
+#### Feedback Loop
+- **Early Feedback:** Enables early feedback from stakeholders and team members.
+- **Risk Mitigation:** Identifies potential risks and strategies early in the process.
