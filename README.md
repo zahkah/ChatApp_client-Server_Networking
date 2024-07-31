@@ -16,8 +16,10 @@
 ### 2.1 Purpose
 The module aims to provide seamless real-time communication for users.
 
+
 ### 2.2 Scope
 The project will include user authentication, message broadcasting, private messaging, and basic user management.
+Future: Encryption , Multithreading
 
 ### 2.3 Requirements
 
