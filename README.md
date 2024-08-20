@@ -1,5 +1,5 @@
 # Chat Application Overview Document
-![](Img\logo.png)
+
 
 
 ## Project Details
@@ -61,7 +61,6 @@ The system is based on a client-server architecture where the server handles mul
 - **Component Diagram:** Shows components such as Client, Server, and Connection Handler.
 - **Sequence Diagram:** Visualizes interactions for a user sending a message.
 - **Class Diagram:** Outlines major classes like ChatClient, ChatServer, and UserThread.
-- ![Architecture Diagram](images/architecture.png "System Architecture")
 
 
 ## 4. Data Dictionary
@@ -83,7 +82,7 @@ The system is based on a client-server architecture where the server handles mul
 - **Message Input Area (messageArea):** Accepts text input from the user for sending messages.
 - **Send Button (sendButton):** Sends content from the messageArea to the current ChatSession.
 - **User List (userList):** Displays each user's username, allowing initiation of private chats.
-- ![Class Diagram](./docs/images/class_diagram.png "Class Diagram")
+
 
 
 ### Additional UI Elements
