@@ -1,5 +1,5 @@
 # Chat Application Overview Document
-![Chat Application Logo](img/logo.png "Chat App Logo")
+![](Img\logo.png)
 
 
 ## Project Details
